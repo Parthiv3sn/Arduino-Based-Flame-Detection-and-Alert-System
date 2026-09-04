@@ -1,4 +1,4 @@
-# Arduino-Based-Flame-Detection-and-Alert-System
+# Arduino Flame Detection and Alert System
 
 A simple local fire-alert prototype that monitors a digital flame sensor and activates a visual and audible alert when a flame is detected.
 
